@@ -5,3 +5,5 @@ This project is built with React and Firebase SDK version 9. [Click here to watc
 ## Run the app
 
 Clone this repo and add your firebase configuration in src/firebase.js then in terminal run **npm install**
+
+[Text-based tutorial](https://farhanfarooq.com/tutorials/crud-app-with-react-firebase-sdk-version-9)
